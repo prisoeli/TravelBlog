@@ -1,0 +1,36 @@
+.jumbotron{
+    background-size: cover;
+    width: 100%;
+	height: auto;
+}
+#title{
+    font-family: 'Bangers', cursive;
+    font-size: 6.5em;
+    
+}
+.pics{
+    margin-left: 100px ;
+    
+}
+img:hover{
+    opacity: .8;
+}
+.flex-column {
+    height: 100%;
+    margin-bottom: 0;
+    left: 0;
+    width: 300px;
+    background-color: #111;
+    overflow-x: hidden;
+  }
+  body{
+      background-image: url("backgr.jpg");
+
+      
+  }
+  .navbar{
+      text-shadow: 1px 1px white;
+  }
+  .container{
+      background-color: rgba(255,225,255,.8);
+  }
